@@ -302,3 +302,6 @@ Small, Focused Pull Requests: Create small, focused pull requests that address s
 Leverage GitHub Features: Utilize features like labels, milestones, and project boards to organize your work and track progress.
 Learn from Others: Observe how experienced GitHub users work and learn from their best practices.
 Seek Help: Don't hesitate to ask for help from the GitHub community or your team members if you encounter difficulties.
+
+## Deadline
+The deadline for this project is September 30th 2024.
